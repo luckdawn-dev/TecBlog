@@ -1,2 +1,2 @@
 # TecBlog
-Projeto para estudo de HTML e CSS
+:bulb: Projeto para estudo de HTML e CSS
